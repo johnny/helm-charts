@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  syncthing-relaysrv:
+  - apiVersion: v2
+    appVersion: 1.15.1
+    created: "2021-04-08T22:20:49.117429127Z"
+    description: Installs a Relay Server for Syncthing
+    digest: 13015f2da881ffee3773045697f7adf665964b68fcea53c9a8b25aee2ab08fb2
+    name: syncthing-relaysrv
+    type: application
+    urls:
+    - https://github.com/johnny/helm-charts/releases/download/syncthing-relaysrv-1.0.0/syncthing-relaysrv-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-04-08T22:20:49.117435027Z"
